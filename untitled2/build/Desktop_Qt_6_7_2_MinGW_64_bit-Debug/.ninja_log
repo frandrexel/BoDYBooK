@@ -1,0 +1,9 @@
+# ninja log v6
+23	1431	7493272679954674	untitled2_autogen/timestamp	a741a110e9da9202
+23	1431	7493272679954674	untitled2_autogen/mocs_compilation.cpp	a741a110e9da9202
+23	1431	7493272679954674	C:/Users/skamb/Documents/GitHub/BoDYBooK/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/timestamp	a741a110e9da9202
+23	1431	7493272679954674	C:/Users/skamb/Documents/GitHub/BoDYBooK/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	a741a110e9da9202
+1452	5479	7493272681914715	CMakeFiles/untitled2.dir/main.cpp.obj	fd882e70c11378ff
+1443	5497	7493272681830521	CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj	f32c23d0444d4533
+1462	5579	7493272681990810	CMakeFiles/untitled2.dir/mainwindow.cpp.obj	c72e8db908847707
+5583	6036	7493272723245603	untitled2.exe	af13448aa6569dbd
