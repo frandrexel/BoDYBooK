@@ -5,7 +5,7 @@ int main()
 {
 
 float distance;
-float time;
+float _time;
 float speed = distance * time;
 float velocity = distance/speed;
 
